@@ -1,0 +1,7 @@
+{
+  "name": "ChronoMaster: The Watchmaking Path",
+  "description": "A comprehensive learning platform for aspiring watchmakers, covering the WOSTEP curriculum from foundation to regulation with interactive quizzes, a virtual bench, and AI-powered service logging.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
